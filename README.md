@@ -1,5 +1,1 @@
-Showdown Glowdown has two versions, depending on what your needs are.
-
-If you are a video editor / showdown slop content creator, the video editing version removes trainer icons so that you can manually re-add them in post-editing. This lets you add custom sprites and gifs for your trainer icon.
-
-If you are a normal player who just wants to make their game less of an eyesore, the casual version keeps trainer icons so that you aren't left iconless. If you prefer playing without icons, you're more than welcome to play casually using the video editing version but tbhon that is very unhinged behavior and I'm lowkirkuinely a bit scared now please leave my github repo and never speak to me again.
+The base resolution for Backdrops and Weather/Terrain Effects is 640px Width by 360px Height. It's recommended to stay within these dimensions when making animated backgrounds, due to .GIF hosting having file size limitations that are easy to reach; however, if you're just using still images or you have a hosting service that's more generous with file size allowance, you are very welcome to use higher resolutions up to 800px Width by 420px Height or something I don't rememeber, you'll figure it out, dattebayo o algo. (˶ᵔ ᵕ ᵔ˶)
