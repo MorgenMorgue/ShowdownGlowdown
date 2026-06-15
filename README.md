@@ -1,4 +1,4 @@
-ShowdownGlowdown is a customisable CSS plugin script for PokemonShowdown.com, please find the guide at https://www.youtube.com/@MorgenMorgue/videos
+ShowdownGlowdown is a customisable CSS plugin script for PokemonShowdown.com, please find the guide at https://youtu.be/o-9BxbWkZaI?si=KpyqFdlIGsqaE6CS
 
 You will find all files by clickig the "main" tab and navigating the branches.
 
